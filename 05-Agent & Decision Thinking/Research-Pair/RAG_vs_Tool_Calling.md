@@ -1,5 +1,6 @@
 بحث رقم 5 : RAG vs. Tool Calling 
 دينا المغربي
+و
 رغد مهنا
 
 # RAG vs. Tool Calling
